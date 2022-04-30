@@ -1,4 +1,4 @@
-# HYPOTHYROIDISM-PREDICTION-IN-PATIENTS
+# HYPOTHYROIDISM-CLASSIFICATION-IN-PATIENTS
 
 ## OVERVIEW
 In this project, I will be using a healthcare dataset about patients that was compiled by Nairobi Hospital during a clinical camp for hypothyroidism to determine whether or not the patient's symptoms indicate that the patient has hypothyroid. 

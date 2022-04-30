@@ -7,7 +7,7 @@ In this project, I will be using a healthcare dataset about patients that was co
 - Google Colaboratory for text editing
 - Python language for scripting
 - Pandas and numpy for data manipulation
-- Randon forest and SVM for prediction
+- Randon forest and SVM for classification
 
 ## TASKS DONE
 - EDA

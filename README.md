@@ -9,3 +9,6 @@ In this project, I will be using a healthcare dataset about patients that was co
 - Pandas and numpy for data manipulation
 - Randon forest and SVM for prediction
 
+## TASKS DONE
+- EDA
+- Prediction
